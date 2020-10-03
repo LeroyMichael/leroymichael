@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Kotlin & Dart
+- 🌱 I’m currently learning Kotlin & Flutter
 - 👯 I’m looking to collaborate on Mobile Application Development 
 - 🤔 I’m looking for help with Chrome Extension
 - 📫 How to reach me: 

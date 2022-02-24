@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Kotlin & Flutter
-- 👯 I’m looking to collaborate on Mobile Application Development or Full Stack Web Developer
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on Fullstack Web Developement
 - 🤔 I’m looking for help with Chrome Extension
 - 📫 How to reach me: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leroymchl/)

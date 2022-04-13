@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Fullstack Web Developement
-- 🤔 I’m looking for help with Chrome Extension
 - 📫 How to reach me: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leroymchl/)
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:lrymchl@gmail.com?Subject=Referred%20from%20GitHub)
